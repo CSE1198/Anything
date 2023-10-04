@@ -1,0 +1,14 @@
+  113  cg demo
+  114  cg good
+  115  cd goood
+  116  cd demo
+  117  touch a.txt
+  118  touch b.txt
+  119  git add b.txt
+  120  cd demo
+  121  touch c.txt
+  122  git add c.txt
+  123  git status
+  124  git clone https://github.com/CSE1198/Anything.git
+  125  history
+
